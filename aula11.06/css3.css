@@ -1,2 +1,6 @@
 * {margin: 0px; padding: 0px;}
-h1 { color: blue;}
+h1 {background-color: green; color: blue;  display: inline-block;}
+div {display: inline-block;}
+ p{ font-size: 32px;  display: inline-block;}
+ .tamanho { height: 150px;
+    width: 150px}
