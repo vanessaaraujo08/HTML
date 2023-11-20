@@ -1,3 +1,9 @@
 * {margim: 0px; padding: 0px;}
 
-body { background-color: #344334; color: aquamarine; display: flex; flex-direction: column; justify-content: space-between; height: 100;}
+body { background-color: #344334; color: aquamarine; display: flex; flex-direction: column; justify-content: space-between; height: 100vh;}
+
+.container_main { display: flex; justify-content:space-around;}
+.section-width1 { width: 40%;}
+.section-width2 { width: 60%;}
+.div-width1 { width: 50%; height: 40vh; border-radius: 8px; background-color:  #448fae;}
+.div-width2 {width: 50%; height: ;}
