@@ -6,7 +6,7 @@ nav {background-color: aqua; display: grid; grid-template-columns: repeat(2, 1fr
 
 ul{ display: grid; grid-template-columns: 100px 100px 300px 100px 100px;}
 
-header {background-color: yellow;}
+header {background-color: yellow;}s
 
 section {background-color: violet;}
 
